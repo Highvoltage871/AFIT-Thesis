@@ -1,5 +1,3 @@
-#Capt Noah Lesch
-
 #This application uses OpenCV version 3.1.0 to generate image histograms
 #and SIFT features.  These features are output to a .csv file which can be
 #rebuilt into the original histograms.  More....
